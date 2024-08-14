@@ -27,13 +27,13 @@ A simple Bash script that performs various arithmetic operations and provides ad
 4. Run the script:
   ./calculator.sh
 
-**## How to Use**
+## How to Use
 
 When prompted, select an operation from the menu.
 Enter the operation in the format number1 operator number2 (e.g., 10+5).
 The script will display the result and additional information about the result (whether it is a prime number, even/odd, and divisible by five).
 
-**## Examples:**
+## Examples:
 
 Addition: Enter 10+5 to get 15 as the result.
 Subtraction: Enter 10-5 to get 5 as the result.
@@ -43,14 +43,14 @@ Power of: Enter 2^3 to get 8 as the result.
 Modulos: Enter 10%3 to get 1 as the result.
 
 
-**## Notes**
+## Notes
 Ensure that the input format is correct and that numbers are valid integers.
 Division by zero will prompt an error message.
 
-**## License**
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-**## Author**
+## Author
 levi ochana
 If you have any additional details you would like to add or additional changes, I am here to help!
 
