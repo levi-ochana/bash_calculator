@@ -19,13 +19,15 @@ A simple Bash script that performs various arithmetic operations and provides ad
 2.  Navigate to the directory:
    ```bash
    cd bash_calculator.sh.git
+
 3. Make the script executable:
    ```bash
    chmod +x calculator.sh
+
 4. Run the script:
   ./calculator.sh
 
-## How to Use
+### How to Use
 
 When prompted, select an operation from the menu.
 Enter the operation in the format number1 operator number2 (e.g., 10+5).
