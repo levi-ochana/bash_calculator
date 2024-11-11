@@ -14,15 +14,15 @@ A simple Bash script that performs various arithmetic operations and provides ad
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/levi-ochana/bash_calculator.sh.git
+   git clone https://github.com/levi-ochana/bash_calculator.git
 
 2. Navigate to the directory:
    ```bash
-   cd bash_calculator.sh.git
+   cd bash_calculator.git
 
 3. Make the script executable:
    ```bash
-   chmod +x calculator.sh
+   chmod +x bash_calculator.sh
 
 4. Run the script:
    ```bash
