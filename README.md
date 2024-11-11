@@ -14,11 +14,11 @@ A simple Bash script that performs various arithmetic operations and provides ad
 
 1 . Clone the repository:
    ```bash
-   git clone https://github.com/levi-ochana/bash_calculator.sh.git```
+   git clone https://github.com/levi-ochana/bash_calculator.sh.git
 
 2 . Navigate to the directory:
    ```bash
-   cd bash_calculator.sh.git```
+   cd bash_calculator.sh.git
 
 3 . Make the script executable:
    ```bash
