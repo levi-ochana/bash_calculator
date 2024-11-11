@@ -37,10 +37,15 @@ The script will display the result and additional information about the result (
 ## Examples:
 
 Addition: Enter 10+5 to get 15 as the result.
+
 Subtraction: Enter 10-5 to get 5 as the result.
+
 Multiplication: Enter 10*5 to get 50 as the result.
+
 Division: Enter 10/5 to get 2.00 as the result.
+
 Power of: Enter 2^3 to get 8 as the result.
+
 Modulos: Enter 10%3 to get 1 as the result.
 
 
