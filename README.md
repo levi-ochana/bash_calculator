@@ -12,19 +12,19 @@ A simple Bash script that performs various arithmetic operations and provides ad
 
 ## Usage
 
-1 . Clone the repository:
+1. Clone the repository:
    ```bash
    git clone https://github.com/levi-ochana/bash_calculator.sh.git
 
-2 . Navigate to the directory:
+2. Navigate to the directory:
    ```bash
    cd bash_calculator.sh.git
 
-3 . Make the script executable:
+3. Make the script executable:
    ```bash
    chmod +x calculator.sh
 
-4 . Run the script:
+4. Run the script:
   ./calculator.sh
 
 ## How to Use
