@@ -25,7 +25,7 @@ A simple Bash script that performs various arithmetic operations and provides ad
    chmod +x calculator.sh
 
 4. Run the script:
-  ```./calculator.sh
+   `./calculator.sh`
 
 ## How to Use
 
