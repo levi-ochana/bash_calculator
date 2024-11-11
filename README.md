@@ -12,19 +12,19 @@ A simple Bash script that performs various arithmetic operations and provides ad
 
 ## Usage
 
-1. Clone the repository:
+1 . Clone the repository:
    ```bash
    git clone https://github.com/levi-ochana/bash_calculator.sh.git
 
-2.  Navigate to the directory:
+2 . Navigate to the directory:
    ```bash
    cd bash_calculator.sh.git
 
-3. Make the script executable:
+3 . Make the script executable:
    ```bash
    chmod +x calculator.sh
 
-4. Run the script:
+4 . Run the script:
   ./calculator.sh
 
 ## How to Use
@@ -47,10 +47,4 @@ Modulos: Enter 10%3 to get 1 as the result.
 Ensure that the input format is correct and that numbers are valid integers.
 Division by zero will prompt an error message.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Author
-levi ochana
-If you have any additional details you would like to add or additional changes, I am here to help!
 
